@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oustrathi.github.io/sitemap
+Sitemap: https://oustrathi.github.io/app/sitemap
+Sitemap: https://oustrathi.github.io/assets/sitemap
+Sitemap: https://oustrathi.github.io/css/sitemap
+Sitemap: https://oustrathi.github.io/includes/sitemap
+Sitemap: https://oustrathi.github.io/item/sitemap
+Sitemap: https://oustrathi.github.io/src/sitemap
